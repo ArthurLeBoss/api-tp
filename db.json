@@ -1,8 +1,10 @@
 {
   "voie": [
     {
-      "nom": "8c",
+      "nom": "La voie de l'aigle",
+      "cotation": "8c",
       "couleur": "Blanc",
+      "pays": "Brésil",
       "id": 1
     }
   ],
