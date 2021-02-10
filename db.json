@@ -1,64 +1,16 @@
 {
-  "equipes": [
+  "voie": [
     {
-      "nom": "FC Arthur2",
-      "ville": "Neuville2",
+      "nom": "8c",
+      "couleur": "Blanc",
       "id": 1
-    },
-    {
-      "nom": "FC Arthur2",
-      "ville": "Test",
-      "id": 2
-    },
-    {
-      "nom": "FC Arthur2",
-      "ville": "Test",
-      "id": 3
-    },
-    {
-      "nom": "FC Arthur2",
-      "ville": "Neuville4",
-      "id": 4
-    },
-    {
-      "nom": "FC Arthur2",
-      "ville": "Neuville4",
-      "id": 5
-    },
-    {
-      "nom": "FC Arthur2",
-      "ville": "Neuville4",
-      "id": 6
-    },
-    {
-      "nom": "FC Arthur2",
-      "ville": "Neuville4",
-      "id": 7
-    },
-    {
-      "nom": "FC Arthur2",
-      "ville": "Neuville4",
-      "id": 8
-    },
-    {
-      "nom": "FC Arthur2",
-      "ville": "Neuville4",
-      "id": 9
-    },
-    {
-      "nom": "FC Arthur2",
-      "ville": "Neuville4",
-      "id": 10
     }
   ],
-  "joueurs": [
+  "grimpeur": [
     {
       "id": 1,
       "nom": "Taillez",
-      "prenom": "Arthur",
-      "poste": "ATD",
-      "nationnalite": "Française",
-      "equipe_id": 1
+      "prenom": "Arthur"
     }
   ]
 }
